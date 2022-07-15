@@ -1,0 +1,246 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "loginUsers": [
+    {
+      "username": "sweta",
+      "password": "Sweta@910",
+      "token": "11223344556677"
+    },
+    {
+      "username": "1",
+      "password": "1",
+      "token": "1122334455"
+    }
+  ],
+  "TC": [
+    {
+      "studentName": "sweta",
+      "DOB": "7/7/92",
+      "class": "12",
+      "TC_No": "465789u0",
+      "TC_Date": "7/7/92",
+      "admissionDate": "7/7/92",
+      "schoolName": "kv dholchera",
+      "id": 1
+    },
+    {
+      "studentName": "Aanya",
+      "DOB": "17/08/2017",
+      "class": "1",
+      "TC_No": "5467890",
+      "TC_Date": "17/08/2017",
+      "admissionDate": "17/08/2017",
+      "schoolName": "prfs",
+      "id": 2
+    },
+    {
+      "studentName": "Neeraj",
+      "DOB": "26/08/10101",
+      "class": "8",
+      "TC_No": "3030",
+      "TC_Date": "20/01/2022",
+      "admissionDate": "10/01/2010",
+      "schoolName": "JSBIT",
+      "id": 3
+    },
+    {
+      "studentName": "Dev",
+      "DOB": "2006-02-13",
+      "class": "12",
+      "TC_No": "65768909vgbhjnkm",
+      "TC_Date": "2022-07-13",
+      "admissionDate": "2022-07-07",
+      "schoolName": "kv jammu",
+      "id": 4
+    },
+    {
+      "studentName": "Aanya",
+      "DOB": "2022-07-13",
+      "class": "ukg",
+      "TC_No": "55555",
+      "TC_Date": "2022-07-13",
+      "admissionDate": "2022-07-13",
+      "schoolName": "prfs",
+      "id": 5
+    },
+    {
+      "studentName": "Anuj",
+      "DOB": "1994-01-30",
+      "class": "7",
+      "TC_No": "49",
+      "TC_Date": "2020-12-04",
+      "admissionDate": "2022-07-01",
+      "schoolName": "BKSV",
+      "id": 6
+    },
+    {
+      "studentName": "nee",
+      "DOB": "1994-10-20",
+      "class": "9",
+      "TC_No": "50",
+      "TC_Date": "2022-07-13",
+      "admissionDate": "2010-10-20",
+      "schoolName": "BKSV",
+      "id": 7
+    },
+    {
+      "studentName": "abbu",
+      "DOB": "2022-07-13",
+      "class": "be",
+      "TC_No": "49",
+      "TC_Date": "2022-07-13",
+      "admissionDate": "2022-07-14",
+      "schoolName": "kv",
+      "id": 8
+    },
+    {
+      "studentName": "ravi",
+      "DOB": "2022-07-13",
+      "class": "bcom",
+      "TC_No": "49",
+      "TC_Date": "2022-07-13",
+      "admissionDate": "2022-07-06",
+      "schoolName": "erdtygui",
+      "id": 9
+    },
+    {
+      "studentName": "rdtyguhjik",
+      "DOB": "2022-07-20",
+      "class": "ftgyhj",
+      "TC_No": "49",
+      "TC_Date": "2022-07-20",
+      "admissionDate": "2022-07-08",
+      "schoolName": "dxfcgvhjk",
+      "id": 10
+    },
+    {
+      "studentName": "esrdtyguh",
+      "DOB": "2022-07-13",
+      "class": "rdtfyg",
+      "TC_No": "49",
+      "TC_Date": "2022-07-20",
+      "admissionDate": "2022-07-14",
+      "schoolName": "zexrfcgtvhbjnk",
+      "id": 11
+    },
+    {
+      "studentName": "xdfcgvhbjnk",
+      "DOB": "2022-07-13",
+      "class": "ytugh",
+      "TC_No": "49",
+      "TC_Date": "2022-07-06",
+      "admissionDate": "2022-07-13",
+      "schoolName": "dfgchjkl",
+      "id": 12
+    },
+    {
+      "studentName": "xdfcgvhbjnk",
+      "DOB": "2022-07-20",
+      "class": "567890",
+      "TC_No": "49",
+      "TC_Date": "2022-07-20",
+      "admissionDate": "2022-07-14",
+      "schoolName": "fcghjkl",
+      "id": 13
+    },
+    {
+      "studentName": "xdfgthjk",
+      "DOB": "2022-07-14",
+      "class": "667",
+      "TC_No": "49",
+      "TC_Date": "2022-07-12",
+      "admissionDate": "2022-07-14",
+      "schoolName": "xdfcgvhbjnk",
+      "id": 14
+    },
+    {
+      "studentName": "dcrtvuyhbj",
+      "DOB": "2022-07-14",
+      "class": "67",
+      "TC_No": "50",
+      "TC_Date": "2022-07-21",
+      "admissionDate": "2022-07-21",
+      "schoolName": "rctvyhbjunkl",
+      "id": 15
+    },
+    {
+      "studentName": "vtghyjkl,",
+      "DOB": "2022-07-21",
+      "class": "1",
+      "TC_No": "50",
+      "TC_Date": "2022-07-15",
+      "admissionDate": "2022-07-14",
+      "schoolName": "vgthyjunikl;",
+      "id": 16
+    },
+    {
+      "studentName": "fgthyjukil;",
+      "DOB": "2022-07-15",
+      "class": "2",
+      "TC_No": "51",
+      "TC_Date": "2022-07-15",
+      "admissionDate": "2022-07-13",
+      "schoolName": "tyuijklo;",
+      "id": 17
+    },
+    {
+      "studentName": "frgthjkl;",
+      "DOB": "2022-07-15",
+      "class": "4",
+      "TC_No": "51",
+      "TC_Date": "2022-07-14",
+      "admissionDate": "2022-07-21",
+      "schoolName": "fcgvhbjnkl",
+      "id": 18
+    },
+    {
+      "studentName": "fcghjkl;",
+      "DOB": "2022-07-15",
+      "class": "ghjkl",
+      "TC_No": "51",
+      "TC_Date": "2022-07-21",
+      "admissionDate": "2022-07-13",
+      "schoolName": "dxfcgvhjkl",
+      "id": 19
+    },
+    {
+      "studentName": "cfgvhbjnkm,l.",
+      "DOB": "2022-07-07",
+      "class": "4",
+      "TC_No": "51",
+      "TC_Date": "2022-07-15",
+      "admissionDate": "2022-07-14",
+      "schoolName": "cfgvhjnkl",
+      "id": 20
+    },
+    {
+      "studentName": "cfgvhbjnkm,l.",
+      "DOB": "2022-07-07",
+      "class": "4",
+      "TC_No": "51",
+      "TC_Date": "2022-07-15",
+      "admissionDate": "2022-07-14",
+      "schoolName": "cfgvhjnkl",
+      "id": 21
+    },
+    {
+      "studentName": "cfgvhbjnkm,l.",
+      "DOB": "2022-07-07",
+      "class": "4",
+      "TC_No": "51",
+      "TC_Date": "2022-07-15",
+      "admissionDate": "2022-07-14",
+      "schoolName": "cfgvhjnkl",
+      "id": 22
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

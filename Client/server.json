@@ -1,0 +1,135 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "signUpUsers": [
+    {
+      "username": "aanya",
+      "password": "aanya",
+      "token": "1122",
+      "id": 1
+    },
+    {
+      "username": "iiii",
+      "password": "$2a$10$8E8WR4A1YyXZ7hY3HpCu8OntlJ91R9NkCVM.6saNDLIZrkTnA7aea",
+      "token": "1122",
+      "id": 2
+    },
+    {
+      "username": "sweta",
+      "password": "$2a$10$dBJrGiq1UOm24gRj9klrBub/ziwa.4jrjgQmfAmqst01kdKFNpV22",
+      "token": "1122",
+      "id": 3
+    },
+    {
+      "username": "sweta",
+      "password": "$2a$10$33p1PuRgT.XynCmtF8OM1u8TN03Z2E1H50V20Fv0gpnYWHeLGxJYC",
+      "token": "1122",
+      "id": 4
+    },
+    {
+      "username": "sweta",
+      "password": "$2a$10$Jw24cGROZEUmktG2IXzp.OcZWj4mzMqq2I8Qb2n1HxjEw2t9grCby",
+      "token": "1122",
+      "id": 5
+    },
+    {
+      "username": "sweta",
+      "password": "$2a$10$hqNukK5kE7WV8m4W4YL1WuK7fYwCRlrkZ1gMYuF6GvYMU3ed3kNDa",
+      "token": "1122",
+      "id": 6
+    },
+    {
+      "username": "sweta",
+      "password": "$2a$10$OHG9U6dumUcIw8JugLzCb..p23sJoDzC4s9miCYz8CTfb.vvNyPdC",
+      "token": "1122",
+      "id": 7
+    },
+    {
+      "username": "sweta",
+      "password": "$2a$10$5rSf8sQRSGkXAPOw72G6M.sRNUWpP.b4Yib3BxF266P3XM9uHlMty",
+      "token": "1122",
+      "id": 8
+    },
+    {
+      "username": "hello",
+      "password": "$2a$10$o3OCdFrhxFO5k0fm80QP1.NYy4toAX0LQUw1uxX34wA3SY6DPy84i",
+      "id": 9
+    },
+    {
+      "username": "Sweta@910",
+      "password": "$2a$10$mXrR.gJ7bKn9OGUgf8g.6.AJfKUwcceooUCgw8qSMmNkTzxoYmIyy",
+      "id": 10
+    },
+    {
+      "username": "Sweta@910",
+      "password": "$2a$10$Y/tlUn.w.xtQqi9jsKCyYeUfsPnyR50HTu1MwbB0t5xoQFiMPoGb.",
+      "id": 11
+    },
+    {
+      "username": "hello001",
+      "password": "$2a$10$JvzMws9Qutq2cWwCDXaF8uom.lwsHGqNCRWzs1iDpPv4qlhAmqBE.",
+      "id": 12
+    }
+  ],
+  "loginUsers": [
+    {
+      "username": "1",
+      "password": "1",
+      "token": "112299"
+    }
+  ],
+  "TC": [
+    {
+      "studentNAme": "aanya",
+      "fatherName": "dev",
+      "motherName": "sweta",
+      "DOB": "2017-08-17",
+      "class": "ukg",
+      "TC_No": "8900",
+      "session": "2021-2022",
+      "admission_No": "12345",
+      "uploadDocument": "1.jpg",
+      "TC_Date": "15/07/2022",
+      "id": 1
+    },
+    {
+      "studentNAme": "edrftgyhujiko",
+      "fatherName": "sedrftgyhujk",
+      "motherName": "wedrftgyhuji",
+      "DOB": "9999-09-09",
+      "class": "sedrftgyhujiko",
+      "TC_No": "drtfyguhij",
+      "session": "drtfgyuhijo",
+      "admission_No": "drftgyhuji",
+      "uploadDocument": {},
+      "TC_Date": "15/07/2022",
+      "id": 2
+    },
+    {
+      "studentNAme": "dfcgvhbnjkl",
+      "fatherName": "edfghjkl;",
+      "motherName": "edtrfgyhujik;",
+      "DOB": "9999-09-09",
+      "class": "fghjkl",
+      "TC_No": "cfvghjkl",
+      "session": "ghjk",
+      "admission_No": "fcvgbhjnkm",
+      "TC_Date": "15/07/2022",
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
